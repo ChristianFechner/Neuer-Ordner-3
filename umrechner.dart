@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  // Eingabeaufforderung für die erste Zahl
+  // Eingabeaufforderung für die Kilometer
   print('Willkommen beim Kilometer in Meilen Rechner ');
   print('Gib die kilometer ein:');
   String? input1 = stdin.readLineSync();
